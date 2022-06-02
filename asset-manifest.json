@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BOCView/static/css/main.0555f5de.chunk.css",
+    "main.js": "/BOCView/static/js/main.75e11c23.chunk.js",
+    "main.js.map": "/BOCView/static/js/main.75e11c23.chunk.js.map",
+    "runtime-main.js": "/BOCView/static/js/runtime-main.b66ccd2a.js",
+    "runtime-main.js.map": "/BOCView/static/js/runtime-main.b66ccd2a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BOCView/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.514bac0b.chunk.js": "/BOCView/static/js/2.514bac0b.chunk.js",
+    "static/js/2.514bac0b.chunk.js.map": "/BOCView/static/js/2.514bac0b.chunk.js.map",
+    "index.html": "/BOCView/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BOCView/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0555f5de.chunk.css.map": "/BOCView/static/css/main.0555f5de.chunk.css.map",
+    "static/js/2.514bac0b.chunk.js.LICENSE.txt": "/BOCView/static/js/2.514bac0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b66ccd2a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.514bac0b.chunk.js",
+    "static/css/main.0555f5de.chunk.css",
+    "static/js/main.75e11c23.chunk.js"
+  ]
+}
