@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/DBocAuthorization/static/css/main.0555f5de.chunk.css",
-    "main.js": "/DBocAuthorization/static/js/main.9335f9af.chunk.js",
-    "main.js.map": "/DBocAuthorization/static/js/main.9335f9af.chunk.js.map",
+    "main.js": "/DBocAuthorization/static/js/main.812f810c.chunk.js",
+    "main.js.map": "/DBocAuthorization/static/js/main.812f810c.chunk.js.map",
     "runtime-main.js": "/DBocAuthorization/static/js/runtime-main.877554ba.js",
     "runtime-main.js.map": "/DBocAuthorization/static/js/runtime-main.877554ba.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/DBocAuthorization/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c1b59d16.chunk.js": "/DBocAuthorization/static/js/2.c1b59d16.chunk.js",
-    "static/js/2.c1b59d16.chunk.js.map": "/DBocAuthorization/static/js/2.c1b59d16.chunk.js.map",
+    "static/js/2.d4eded54.chunk.js": "/DBocAuthorization/static/js/2.d4eded54.chunk.js",
+    "static/js/2.d4eded54.chunk.js.map": "/DBocAuthorization/static/js/2.d4eded54.chunk.js.map",
     "index.html": "/DBocAuthorization/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/DBocAuthorization/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.0555f5de.chunk.css.map": "/DBocAuthorization/static/css/main.0555f5de.chunk.css.map",
-    "static/js/2.c1b59d16.chunk.js.LICENSE.txt": "/DBocAuthorization/static/js/2.c1b59d16.chunk.js.LICENSE.txt"
+    "static/js/2.d4eded54.chunk.js.LICENSE.txt": "/DBocAuthorization/static/js/2.d4eded54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.877554ba.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c1b59d16.chunk.js",
+    "static/js/2.d4eded54.chunk.js",
     "static/css/main.0555f5de.chunk.css",
-    "static/js/main.9335f9af.chunk.js"
+    "static/js/main.812f810c.chunk.js"
   ]
 }
